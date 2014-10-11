@@ -1,0 +1,1 @@
+This is going to be FirstContact, an extremely easy way to add a contact you meet at a conference/hackathaon/etc, have it send them a text/email, and savw to your phone and SalesForce with extra metadata.  Created for the SalesForce Million Dallar Hackathon 2014 by Roger Pincombe.

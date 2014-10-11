@@ -1,0 +1,1 @@
+I went through the instructions to export SalesForce metadata, but that looks like it only applies once you have added some custom object types to SalesForce.  So far I haven't gotten to that point, and my SalesForce environment is still completely untouched.  So with this commit I don't have any SataForce metadata included (as there isn't yet any to include).
